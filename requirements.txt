@@ -1,5 +1,5 @@
-flask
-flask_sqlalchemy
-psycopg2
-python-dotenv
-werkzeug
+flask==2.1.1
+flask_sqlalchemy==2.5.1
+psycopg2==2.9.3
+python-dotenv==0.21.1
+werkzeug==2.2.2
